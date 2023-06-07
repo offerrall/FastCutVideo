@@ -1,6 +1,7 @@
 # Fast Cut Video
 
 Fast Cut Video is a simple and fast desktop application for cutting videos. This project was initially developed as a personal project to meet my own needs. I decided to share it with the community in case anyone finds this tool useful.
+![Fast Cut Video](https://i.imgur.com/WxbW3Lw.png)
 
 ## Why It's Fast
 
